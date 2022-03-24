@@ -13,7 +13,7 @@ public class Main {
 
     
     public void a(){
-        System.out.println("aAAAAAAAAAAAA");
+        System.out.println("Hallo :)");
     }
     
 }
